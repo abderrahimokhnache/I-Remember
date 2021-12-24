@@ -1,0 +1,6 @@
+*.txt
+dist
+build
+*.exe
+__pycache__
+account0.db

@@ -1,0 +1,35 @@
+{
+	"style":[
+		{
+		"bg":"#1c223b",
+		"fg":"#00ffff",
+		"relief" :"solid",
+		"font" : ["consolas" ,14  , "italic"],
+		"images" : [""]
+		}
+	],
+	"root-config" : [
+		{
+		"bg-root":"#05141b",
+		"geometry" : "400x220",
+		"title" : "i-Remember",
+		"icon":"static/rem.ico",
+		"Extra-data":""
+		}
+	],
+	 "style-on-event":[
+		{
+		"Enter":"#3a3a3a",
+		"Leave":"#11111d",
+		"activebackground":"#11111d",
+		"activeforeground":"#00ffff"
+		}
+	],
+	 "about":[
+	 	{
+	 		"author" : "Abderrahim Mokhnache",
+	 		"email" :"abderrahimokhnache@gmail.com"
+	 	}
+	 ]
+
+}
