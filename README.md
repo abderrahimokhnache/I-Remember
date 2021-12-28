@@ -1,5 +1,5 @@
 # I-Remember
-### an Offline password manager
+###Offline Password-Manager
 
 ## 1 : the login page
 
