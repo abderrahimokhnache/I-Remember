@@ -46,4 +46,3 @@
 
 > Note : if you are using windows it's better to uncomment everything has to do with win10toast (for notifications)
 
-### writting this readme file already took me some time so i will explain the code whenever i'm free (i did't write helpfull comments cuz i have written this app back in 2019)
