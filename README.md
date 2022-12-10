@@ -1,6 +1,10 @@
 # I-Remember
 ### Offline Password-Manager
 
+
+https://user-images.githubusercontent.com/93830072/206875514-bafc8d8f-22a9-47fb-b353-1980e6bc3982.mp4
+
+
 ## 1 : the login page
 
 > if you are login for the first time a database file will be created in /static folder
